@@ -1,0 +1,16 @@
+# Polymarket NBA Trading Bot - Dependencies
+
+# HTTP requests
+requests>=2.31.0
+
+# Scheduling (optional, for more advanced scheduling)
+# apscheduler>=3.10.0
+
+# Data handling
+# pandas>=2.0.0  # Optional, for advanced analytics
+
+# Environment variables (optional)
+# python-dotenv>=1.0.0
+
+# Type hints
+typing-extensions>=4.5.0
